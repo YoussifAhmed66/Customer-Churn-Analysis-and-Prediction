@@ -115,9 +115,9 @@ Thanks for following this analysis! This model can genuinely help a telco reduce
 ## How to Run
 1.  Clone this repository.
 2.  Install the required libraries:
-    ```bash
+```bash
 pip install -r requirements.txt
-    ```
+```
 3.  Run the notebook `customer-churn-analysis-and-prediction.ipynb`.
 
 ---
